@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/collinhaines/collinhaines.github.io.git
+	branch = master
+[submodule "themes/basics"]
+	path = themes/basics
+	url = https://github.com/arjunkrishnababu96/basics.git

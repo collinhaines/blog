@@ -1,0 +1,14 @@
+baseURL = "https://collinhaines.com"
+languageCode = "en-us"
+title = "Collin's interesting website"
+theme = "basics"
+
+[params]
+  author = "Collin Haines"
+  github = "collinhaines"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
